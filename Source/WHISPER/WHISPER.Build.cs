@@ -18,8 +18,11 @@ public class WHISPER : ModuleRules
 			"StateTreeModule",
 			"GameplayStateTreeModule",
 			"UMG",
-			"Slate"
-		});
+			"Slate",
+            "CommonGame",
+            "CommonUser",
+            "CommonUI"
+        });
 
 		PrivateDependencyModuleNames.AddRange(new string[] { });
 

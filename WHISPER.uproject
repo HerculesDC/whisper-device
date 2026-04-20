@@ -24,11 +24,12 @@
 			"Enabled": true
 		},
 		{
-			"Name": "VisualStudioTools",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64"
-			]
+			"Name": "CommonUser",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonGame",
+			"Enabled": true
 		},
 		{
 			"Name": "CommonUI",
